@@ -1,9 +1,12 @@
 ---
 layout: post
 title: MTA Madness
+excerpt_separator: <!--more-->
 ---
 
 During the first week of class at Metis, the rest of the cohort and I had the pleasure of being overwhelmed by a rapidly approaching deadline. Our first project was for a (fictional) organization called WomenTechWomenYes, whose goal is to increase the participation of women in technology and to build awareness and reach for the company. WTWY was looking for help placing members of their street team at subway entrances in New York City, whose purpose is to find individuals interested in attending a gala in the early summer. We teamed up in groups of four to tackle this first project.
+
+<!--more-->
 
 In any open-ended problem setting such as this, it's important to be careful in quantifying and naming your ...
 
