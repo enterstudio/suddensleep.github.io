@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Day 2 at Metis
-excerpt_separator: <!--more-->
 ---
 
 Greetings blogosphere.
